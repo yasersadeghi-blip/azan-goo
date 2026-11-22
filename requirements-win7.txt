@@ -1,0 +1,5 @@
+# Pinned versions that still support Python 3.8 (the last Python that runs on Windows 7)
+jdatetime==5.0.0
+pygame==2.6.1
+mutagen==1.47.0
+pyinstaller==5.13.2

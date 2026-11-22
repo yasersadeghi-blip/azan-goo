@@ -1,0 +1,4 @@
+jdatetime>=6.0.0
+pygame>=2.5.0
+mutagen>=1.47.0
+pyinstaller>=6.0.0
